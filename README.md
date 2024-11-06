@@ -49,7 +49,7 @@ For more detailed instructions, please refer to the documentation.
 
 This project is participating in **Hacktoberfest 2024**! Here are some ***rules*** to follow:
 
-   **Follow the ***User*** and ***Star The Repo*** To get PR Accepted**
+ 
    
 - Make sure your pull request is meaningful; it should address an issue or enhance the project.
 - Keep your changes focused and well-documented.
