@@ -17,7 +17,7 @@ Welcome to the **Aristrocraft** repository! This project is an elegant and user-
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Payment Gateway:** Stripe 
+- **Payment Gateway:** Stripe etc.
 
 ## Getting Started
 
